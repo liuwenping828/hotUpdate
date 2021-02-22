@@ -1,0 +1,5 @@
+include ':buildsrc'
+include ':PluginLib'
+include ':MyPlugin'
+rootProject.name='hotUpdate'
+include ':app'
